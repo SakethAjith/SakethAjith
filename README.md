@@ -2,9 +2,9 @@
 <div>
 Hi!, I'm a programmer.<br/>
 reach out via<br/>
-linkedin: <a href="https://linkedin.com/in/saketh-ajith">https://linkedin.com/in/saketh-ajith</a>
+&emsp; linkedin: <a href="https://linkedin.com/in/saketh-ajith">https://linkedin.com/in/saketh-ajith</a>
 <br/>
-email: <a href="saketh770@gmail.com">saketh770@gmail.com</a>
+&emsp; email: <a href="saketh770@gmail.com">saketh770@gmail.com</a>
 </div>
 
 <div>
