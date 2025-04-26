@@ -1,10 +1,6 @@
 <h3 align="center">About Me</h3>
 <div>
 Hi!, I'm a programmer.<br/>
-reach out via<br/>
-&emsp; linkedin: <a href="https://linkedin.com/in/saketh-ajith">https://linkedin.com/in/saketh-ajith</a>
-<br/>
-&emsp; email: <a href="saketh770@gmail.com">saketh770@gmail.com</a>
 </div>
 
 <div>
@@ -16,10 +12,11 @@ reach out via<br/>
 </ul>
 </div>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/saketh ajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saketh ajith" height="30" width="40" /></a>
-
+<h3>Contact</h3>
+&emsp; linkedin: <a href="https://linkedin.com/in/saketh-ajith">https://linkedin.com/in/saketh-ajith</a>
+<br/>
+&emsp; email: <a href="saketh770@gmail.com">saketh770@gmail.com</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
